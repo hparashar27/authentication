@@ -14,6 +14,11 @@
   color: white;
 }
 
+.loading{
+color: #fff;
+background-color:#a78fb7
+}
+
 .control {
   margin-bottom: 0.5rem;
 }
